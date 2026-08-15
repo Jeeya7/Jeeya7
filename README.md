@@ -1,4 +1,33 @@
-# Hi, I'm Jiya
+<div align="center">
+
+<pre>
+     _ _____   __   __    _    
+    | |_ _\ \ / /  / \   
+ _  | || | \ V /  / _ \  
+| |_| || |  | |  / ___ \ 
+ \___/|___| |_| /_/   \_\
+</pre>
+
+# Jeeya7
+
+**Applied AI | Explainable ML | Human-centered tools**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-2E8B57?style=for-the-badge)
+
+</div>
+
+```txt
+> student developer
+> building practical AI tools
+> curious, consistent, and kind
+
+location:  Earth
+focus:     applied AI, explainable ML, useful automation
+code:      everyday
+```
 
 I build AI-powered tools that turn messy real-world information into clear, useful decisions. My recent work spans multi-agent systems, model explanation dashboards, environmental risk analysis, and student productivity tools.
 
