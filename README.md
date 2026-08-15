@@ -2,14 +2,6 @@
 
 I build AI-powered tools that turn messy real-world information into clear, useful decisions. My recent work spans multi-agent systems, model explanation dashboards, environmental risk analysis, and student productivity tools.
 
-## Current Focus
-
-- [x] Set up my GitHub profile README
-- [ ] Polish READMEs for my pinned projects with screenshots, demos, and setup steps
-- [ ] Add live demo links where each project can be run or explored
-- [ ] Document what I learned from FloodAid, Model Explanation Dashboard, and Canvas Deadline Agent
-- [ ] Keep my portfolio aligned with my best GitHub work
-
 ## GitHub Activity
 
 ![Jiya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeeya7&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent)
