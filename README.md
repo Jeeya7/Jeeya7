@@ -24,7 +24,6 @@
       <a href="https://jeeya7.github.io/JiyaPradhan/"><code>users/jeeya7</code></a>
       <br />
       <br />
-      <sub><samp>Applied AI builder focused on explainability, education tools, and useful automation.</samp></sub>
       <br />
       <br />
     </td>
