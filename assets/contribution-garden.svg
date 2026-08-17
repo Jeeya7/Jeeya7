@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="880" height="196" viewBox="0 0 880 196" role="img" aria-label="Jeeya7 GitHub contribution garden">
   <title>Jeeya7 GitHub contribution garden</title>
-  <desc>A pixel-art garden representing Jeeya7's GitHub contribution activity over the last year (385 contributions), where each day is a plant that grows with that day's activity.</desc>
+  <desc>A pixel-art garden representing Jeeya7's GitHub contribution activity over the last year (391 contributions), where each day is a plant that grows with that day's activity.</desc>
   <defs>
     <g id="soil" shape-rendering="crispEdges">
       <rect x="0" y="8" width="12" height="4" fill="#33241A"/>
@@ -474,7 +474,7 @@
     <use href="#soil" x="838" y="114"/>
     <use href="#soil" x="838" y="130"/>
     <use href="#sprout-1" x="838" y="146"/>
-    <use href="#sprout-1" x="854" y="50"/>
+    <use href="#sprout-2" x="854" y="50"/>
     <use href="#soil" x="854" y="66"/>
   </g>
   <rect x="853" y="65" width="14" height="14" fill="none" stroke="#F8FAFC" stroke-width="1" opacity="0.75" shape-rendering="crispEdges"/>
