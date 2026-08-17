@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="896" height="196" viewBox="0 0 896 196" role="img" aria-label="Jeeya7 GitHub contribution garden">
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="196" viewBox="0 0 880 196" role="img" aria-label="Jeeya7 GitHub contribution garden">
   <title>Jeeya7 GitHub contribution garden</title>
-  <desc>A pixel-art garden representing Jeeya7's GitHub contribution activity over the last year (2357 contributions), where each day is a plant that grows with that day's activity.</desc>
+  <desc>A pixel-art garden representing Jeeya7's GitHub contribution activity over the last year (385 contributions), where each day is a plant that grows with that day's activity.</desc>
   <defs>
     <g id="soil" shape-rendering="crispEdges">
       <rect x="0" y="8" width="12" height="4" fill="#33241A"/>
@@ -90,400 +90,395 @@
       <rect x="0" y="9" width="1" height="1" fill="#F8FAFC"/>
     </g>
   </defs>
-  <rect x="0.5" y="0.5" width="895" height="195" rx="10" fill="#0F1A2E" stroke="#2A3B58" stroke-width="1"/>
+  <rect x="0.5" y="0.5" width="879" height="195" rx="10" fill="#0F1A2E" stroke="#2A3B58" stroke-width="1"/>
   <text x="17" y="26" font-family="'Courier New', ui-monospace, monospace" font-size="16" font-weight="900" letter-spacing="2" fill="#0F172A" opacity="0.6">ACTIVITY LOG</text>
   <text x="16" y="24" font-family="'Courier New', ui-monospace, monospace" font-size="16" font-weight="900" letter-spacing="2" fill="#F8FAFC">ACTIVITY LOG</text>
-  <text x="756" y="22" text-anchor="end" fill="#64748B" font-family="'Courier New', ui-monospace, monospace" font-size="8">less</text>
-  <use href="#soil" x="764" y="12"/>
-  <use href="#sprout-1" x="780" y="12"/>
-  <use href="#sprout-2" x="796" y="12"/>
-  <use href="#flower-small" x="812" y="12"/>
-  <use href="#flower-full" x="828" y="12"/>
-  <use href="#flower-rare" x="844" y="12"/>
-  <text x="860" y="22" fill="#64748B" font-family="'Courier New', ui-monospace, monospace" font-size="8">more</text>
+  <text x="740" y="22" text-anchor="end" fill="#64748B" font-family="'Courier New', ui-monospace, monospace" font-size="8">less</text>
+  <use href="#soil" x="748" y="12"/>
+  <use href="#sprout-1" x="764" y="12"/>
+  <use href="#sprout-2" x="780" y="12"/>
+  <use href="#flower-small" x="796" y="12"/>
+  <use href="#flower-full" x="812" y="12"/>
+  <use href="#flower-rare" x="828" y="12"/>
+  <text x="844" y="22" fill="#64748B" font-family="'Courier New', ui-monospace, monospace" font-size="8">more</text>
   <text x="38" y="45" fill="#64748B" font-family="'Courier New', ui-monospace, monospace" font-size="9" letter-spacing="1">AUG</text>
-  <text x="86" y="45" fill="#64748B" font-family="'Courier New', ui-monospace, monospace" font-size="9" letter-spacing="1">SEP</text>
-  <text x="150" y="45" fill="#64748B" font-family="'Courier New', ui-monospace, monospace" font-size="9" letter-spacing="1">OCT</text>
-  <text x="214" y="45" fill="#64748B" font-family="'Courier New', ui-monospace, monospace" font-size="9" letter-spacing="1">NOV</text>
-  <text x="294" y="45" fill="#64748B" font-family="'Courier New', ui-monospace, monospace" font-size="9" letter-spacing="1">DEC</text>
-  <text x="358" y="45" fill="#64748B" font-family="'Courier New', ui-monospace, monospace" font-size="9" letter-spacing="1">JAN</text>
-  <text x="422" y="45" fill="#64748B" font-family="'Courier New', ui-monospace, monospace" font-size="9" letter-spacing="1">FEB</text>
-  <text x="486" y="45" fill="#64748B" font-family="'Courier New', ui-monospace, monospace" font-size="9" letter-spacing="1">MAR</text>
-  <text x="566" y="45" fill="#64748B" font-family="'Courier New', ui-monospace, monospace" font-size="9" letter-spacing="1">APR</text>
-  <text x="630" y="45" fill="#64748B" font-family="'Courier New', ui-monospace, monospace" font-size="9" letter-spacing="1">MAY</text>
-  <text x="710" y="45" fill="#64748B" font-family="'Courier New', ui-monospace, monospace" font-size="9" letter-spacing="1">JUN</text>
-  <text x="774" y="45" fill="#64748B" font-family="'Courier New', ui-monospace, monospace" font-size="9" letter-spacing="1">JUL</text>
-  <text x="838" y="45" fill="#64748B" font-family="'Courier New', ui-monospace, monospace" font-size="9" letter-spacing="1">AUG</text>
+  <text x="134" y="45" fill="#64748B" font-family="'Courier New', ui-monospace, monospace" font-size="9" letter-spacing="1">OCT</text>
+  <text x="198" y="45" fill="#64748B" font-family="'Courier New', ui-monospace, monospace" font-size="9" letter-spacing="1">NOV</text>
+  <text x="278" y="45" fill="#64748B" font-family="'Courier New', ui-monospace, monospace" font-size="9" letter-spacing="1">DEC</text>
+  <text x="342" y="45" fill="#64748B" font-family="'Courier New', ui-monospace, monospace" font-size="9" letter-spacing="1">JAN</text>
+  <text x="406" y="45" fill="#64748B" font-family="'Courier New', ui-monospace, monospace" font-size="9" letter-spacing="1">FEB</text>
+  <text x="470" y="45" fill="#64748B" font-family="'Courier New', ui-monospace, monospace" font-size="9" letter-spacing="1">MAR</text>
+  <text x="550" y="45" fill="#64748B" font-family="'Courier New', ui-monospace, monospace" font-size="9" letter-spacing="1">APR</text>
+  <text x="614" y="45" fill="#64748B" font-family="'Courier New', ui-monospace, monospace" font-size="9" letter-spacing="1">MAY</text>
+  <text x="694" y="45" fill="#64748B" font-family="'Courier New', ui-monospace, monospace" font-size="9" letter-spacing="1">JUN</text>
+  <text x="758" y="45" fill="#64748B" font-family="'Courier New', ui-monospace, monospace" font-size="9" letter-spacing="1">JUL</text>
+  <text x="822" y="45" fill="#64748B" font-family="'Courier New', ui-monospace, monospace" font-size="9" letter-spacing="1">AUG</text>
   <text x="32" y="76" text-anchor="end" fill="#64748B" font-family="'Courier New', ui-monospace, monospace" font-size="8" letter-spacing="1">MON</text>
   <text x="32" y="108" text-anchor="end" fill="#64748B" font-family="'Courier New', ui-monospace, monospace" font-size="8" letter-spacing="1">WED</text>
   <text x="32" y="140" text-anchor="end" fill="#64748B" font-family="'Courier New', ui-monospace, monospace" font-size="8" letter-spacing="1">FRI</text>
   <g shape-rendering="crispEdges">
-    <use href="#sprout-2" x="38" y="50"/>
-    <use href="#sprout-2" x="38" y="66"/>
+    <use href="#soil" x="38" y="50"/>
+    <use href="#soil" x="38" y="66"/>
     <use href="#soil" x="38" y="82"/>
-    <use href="#sprout-2" x="38" y="98"/>
-    <use href="#flower-full" x="38" y="114"/>
+    <use href="#soil" x="38" y="98"/>
+    <use href="#soil" x="38" y="114"/>
     <use href="#soil" x="38" y="130"/>
-    <use href="#sprout-2" x="38" y="146"/>
+    <use href="#soil" x="38" y="146"/>
     <use href="#soil" x="54" y="50"/>
     <use href="#soil" x="54" y="66"/>
     <use href="#soil" x="54" y="82"/>
-    <use href="#sprout-1" x="54" y="98"/>
+    <use href="#soil" x="54" y="98"/>
     <use href="#sprout-2" x="54" y="114"/>
     <use href="#sprout-1" x="54" y="130"/>
-    <use href="#flower-full" x="54" y="146"/>
-    <use href="#sprout-1" x="70" y="50"/>
+    <use href="#soil" x="54" y="146"/>
+    <use href="#soil" x="70" y="50"/>
     <use href="#soil" x="70" y="66"/>
-    <use href="#sprout-1" x="70" y="82"/>
+    <use href="#soil" x="70" y="82"/>
     <use href="#soil" x="70" y="98"/>
-    <use href="#sprout-2" x="70" y="114"/>
-    <use href="#flower-rare" x="70" y="130"/>
-    <use href="#soil" x="70" y="146"/>
-    <use href="#sprout-1" x="86" y="50"/>
-    <use href="#flower-full" x="86" y="66"/>
-    <use href="#sprout-2" x="86" y="82"/>
-    <use href="#flower-small" x="86" y="98"/>
-    <use href="#sprout-1" x="86" y="114"/>
+    <use href="#soil" x="70" y="114"/>
+    <use href="#soil" x="70" y="130"/>
+    <use href="#sprout-1" x="70" y="146"/>
+    <use href="#soil" x="86" y="50"/>
+    <use href="#sprout-1" x="86" y="66"/>
+    <use href="#soil" x="86" y="82"/>
+    <use href="#soil" x="86" y="98"/>
+    <use href="#soil" x="86" y="114"/>
     <use href="#soil" x="86" y="130"/>
     <use href="#soil" x="86" y="146"/>
-    <use href="#flower-rare" x="102" y="50"/>
-    <use href="#sprout-2" x="102" y="66"/>
+    <use href="#soil" x="102" y="50"/>
+    <use href="#sprout-1" x="102" y="66"/>
     <use href="#sprout-1" x="102" y="82"/>
     <use href="#soil" x="102" y="98"/>
     <use href="#soil" x="102" y="114"/>
     <use href="#soil" x="102" y="130"/>
-    <use href="#sprout-2" x="102" y="146"/>
+    <use href="#soil" x="102" y="146"/>
     <use href="#soil" x="118" y="50"/>
-    <use href="#sprout-2" x="118" y="66"/>
-    <use href="#flower-small" x="118" y="82"/>
-    <use href="#soil" x="118" y="98"/>
-    <use href="#sprout-1" x="118" y="114"/>
+    <use href="#soil" x="118" y="66"/>
+    <use href="#sprout-1" x="118" y="82"/>
+    <use href="#sprout-1" x="118" y="98"/>
+    <use href="#soil" x="118" y="114"/>
     <use href="#soil" x="118" y="130"/>
-    <use href="#sprout-1" x="118" y="146"/>
-    <use href="#sprout-1" x="134" y="50"/>
-    <use href="#sprout-2" x="134" y="66"/>
-    <use href="#flower-small" x="134" y="82"/>
-    <use href="#soil" x="134" y="98"/>
-    <use href="#flower-small" x="134" y="114"/>
+    <use href="#soil" x="118" y="146"/>
+    <use href="#soil" x="134" y="50"/>
+    <use href="#soil" x="134" y="66"/>
+    <use href="#soil" x="134" y="82"/>
+    <use href="#sprout-1" x="134" y="98"/>
+    <use href="#soil" x="134" y="114"/>
     <use href="#sprout-1" x="134" y="130"/>
     <use href="#soil" x="134" y="146"/>
-    <use href="#sprout-2" x="150" y="50"/>
-    <use href="#flower-small" x="150" y="66"/>
+    <use href="#soil" x="150" y="50"/>
+    <use href="#soil" x="150" y="66"/>
     <use href="#soil" x="150" y="82"/>
-    <use href="#sprout-2" x="150" y="98"/>
+    <use href="#soil" x="150" y="98"/>
     <use href="#soil" x="150" y="114"/>
-    <use href="#flower-full" x="150" y="130"/>
-    <use href="#sprout-2" x="150" y="146"/>
-    <use href="#sprout-2" x="166" y="50"/>
-    <use href="#soil" x="166" y="66"/>
+    <use href="#soil" x="150" y="130"/>
+    <use href="#soil" x="150" y="146"/>
+    <use href="#soil" x="166" y="50"/>
+    <use href="#sprout-1" x="166" y="66"/>
     <use href="#soil" x="166" y="82"/>
-    <use href="#sprout-1" x="166" y="98"/>
+    <use href="#soil" x="166" y="98"/>
     <use href="#soil" x="166" y="114"/>
     <use href="#soil" x="166" y="130"/>
-    <use href="#sprout-1" x="166" y="146"/>
+    <use href="#soil" x="166" y="146"/>
     <use href="#soil" x="182" y="50"/>
-    <use href="#flower-full" x="182" y="66"/>
-    <use href="#sprout-2" x="182" y="82"/>
-    <use href="#flower-rare" x="182" y="98"/>
-    <use href="#soil" x="182" y="114"/>
-    <use href="#flower-full" x="182" y="130"/>
-    <use href="#sprout-2" x="182" y="146"/>
-    <use href="#sprout-2" x="198" y="50"/>
-    <use href="#flower-small" x="198" y="66"/>
+    <use href="#soil" x="182" y="66"/>
+    <use href="#sprout-1" x="182" y="82"/>
+    <use href="#soil" x="182" y="98"/>
+    <use href="#sprout-1" x="182" y="114"/>
+    <use href="#soil" x="182" y="130"/>
+    <use href="#soil" x="182" y="146"/>
+    <use href="#soil" x="198" y="50"/>
+    <use href="#soil" x="198" y="66"/>
     <use href="#soil" x="198" y="82"/>
-    <use href="#soil" x="198" y="98"/>
-    <use href="#flower-small" x="198" y="114"/>
-    <use href="#soil" x="198" y="130"/>
+    <use href="#sprout-1" x="198" y="98"/>
+    <use href="#flower-rare" x="198" y="114"/>
+    <use href="#sprout-1" x="198" y="130"/>
     <use href="#soil" x="198" y="146"/>
     <use href="#soil" x="214" y="50"/>
-    <use href="#flower-full" x="214" y="66"/>
-    <use href="#sprout-2" x="214" y="82"/>
-    <use href="#soil" x="214" y="98"/>
-    <use href="#sprout-2" x="214" y="114"/>
-    <use href="#sprout-1" x="214" y="130"/>
-    <use href="#sprout-2" x="214" y="146"/>
+    <use href="#sprout-1" x="214" y="66"/>
+    <use href="#sprout-1" x="214" y="82"/>
+    <use href="#sprout-1" x="214" y="98"/>
+    <use href="#sprout-1" x="214" y="114"/>
+    <use href="#soil" x="214" y="130"/>
+    <use href="#soil" x="214" y="146"/>
     <use href="#soil" x="230" y="50"/>
-    <use href="#flower-small" x="230" y="66"/>
-    <use href="#flower-small" x="230" y="82"/>
-    <use href="#sprout-1" x="230" y="98"/>
-    <use href="#soil" x="230" y="114"/>
-    <use href="#sprout-2" x="230" y="130"/>
-    <use href="#flower-small" x="230" y="146"/>
-    <use href="#flower-full" x="246" y="50"/>
-    <use href="#sprout-1" x="246" y="66"/>
+    <use href="#soil" x="230" y="66"/>
+    <use href="#sprout-1" x="230" y="82"/>
+    <use href="#soil" x="230" y="98"/>
+    <use href="#sprout-1" x="230" y="114"/>
+    <use href="#soil" x="230" y="130"/>
+    <use href="#soil" x="230" y="146"/>
+    <use href="#soil" x="246" y="50"/>
+    <use href="#soil" x="246" y="66"/>
     <use href="#soil" x="246" y="82"/>
-    <use href="#flower-full" x="246" y="98"/>
+    <use href="#soil" x="246" y="98"/>
     <use href="#soil" x="246" y="114"/>
-    <use href="#flower-full" x="246" y="130"/>
-    <use href="#soil" x="246" y="146"/>
-    <use href="#sprout-1" x="262" y="50"/>
-    <use href="#sprout-1" x="262" y="66"/>
+    <use href="#soil" x="246" y="130"/>
+    <use href="#sprout-1" x="246" y="146"/>
+    <use href="#soil" x="262" y="50"/>
+    <use href="#soil" x="262" y="66"/>
     <use href="#sprout-1" x="262" y="82"/>
-    <use href="#sprout-1" x="262" y="98"/>
-    <use href="#flower-rare" x="262" y="114"/>
-    <use href="#sprout-2" x="262" y="130"/>
+    <use href="#soil" x="262" y="98"/>
+    <use href="#sprout-1" x="262" y="114"/>
+    <use href="#sprout-1" x="262" y="130"/>
     <use href="#soil" x="262" y="146"/>
-    <use href="#flower-small" x="278" y="50"/>
-    <use href="#sprout-1" x="278" y="66"/>
-    <use href="#flower-small" x="278" y="82"/>
-    <use href="#sprout-2" x="278" y="98"/>
-    <use href="#sprout-1" x="278" y="114"/>
-    <use href="#sprout-1" x="278" y="130"/>
-    <use href="#sprout-1" x="278" y="146"/>
-    <use href="#sprout-1" x="294" y="50"/>
+    <use href="#soil" x="278" y="50"/>
+    <use href="#soil" x="278" y="66"/>
+    <use href="#sprout-1" x="278" y="82"/>
+    <use href="#soil" x="278" y="98"/>
+    <use href="#soil" x="278" y="114"/>
+    <use href="#soil" x="278" y="130"/>
+    <use href="#soil" x="278" y="146"/>
+    <use href="#soil" x="294" y="50"/>
     <use href="#soil" x="294" y="66"/>
-    <use href="#sprout-2" x="294" y="82"/>
-    <use href="#soil" x="294" y="98"/>
+    <use href="#sprout-1" x="294" y="82"/>
+    <use href="#sprout-1" x="294" y="98"/>
     <use href="#sprout-1" x="294" y="114"/>
-    <use href="#soil" x="294" y="130"/>
-    <use href="#sprout-2" x="294" y="146"/>
-    <use href="#sprout-2" x="310" y="50"/>
-    <use href="#sprout-2" x="310" y="66"/>
+    <use href="#sprout-1" x="294" y="130"/>
+    <use href="#soil" x="294" y="146"/>
+    <use href="#soil" x="310" y="50"/>
+    <use href="#soil" x="310" y="66"/>
     <use href="#soil" x="310" y="82"/>
     <use href="#soil" x="310" y="98"/>
     <use href="#soil" x="310" y="114"/>
     <use href="#soil" x="310" y="130"/>
-    <use href="#sprout-2" x="310" y="146"/>
-    <use href="#flower-rare" x="326" y="50"/>
+    <use href="#soil" x="310" y="146"/>
+    <use href="#soil" x="326" y="50"/>
     <use href="#soil" x="326" y="66"/>
     <use href="#soil" x="326" y="82"/>
-    <use href="#flower-full" x="326" y="98"/>
-    <use href="#sprout-2" x="326" y="114"/>
-    <use href="#sprout-1" x="326" y="130"/>
-    <use href="#sprout-1" x="326" y="146"/>
-    <use href="#sprout-1" x="342" y="50"/>
-    <use href="#sprout-2" x="342" y="66"/>
-    <use href="#flower-full" x="342" y="82"/>
-    <use href="#soil" x="342" y="98"/>
+    <use href="#soil" x="326" y="98"/>
+    <use href="#soil" x="326" y="114"/>
+    <use href="#soil" x="326" y="130"/>
+    <use href="#soil" x="326" y="146"/>
+    <use href="#soil" x="342" y="50"/>
+    <use href="#soil" x="342" y="66"/>
+    <use href="#soil" x="342" y="82"/>
+    <use href="#sprout-1" x="342" y="98"/>
     <use href="#sprout-2" x="342" y="114"/>
-    <use href="#flower-full" x="342" y="130"/>
-    <use href="#flower-full" x="342" y="146"/>
-    <use href="#flower-full" x="358" y="50"/>
-    <use href="#flower-rare" x="358" y="66"/>
+    <use href="#soil" x="342" y="130"/>
+    <use href="#soil" x="342" y="146"/>
+    <use href="#soil" x="358" y="50"/>
+    <use href="#sprout-1" x="358" y="66"/>
     <use href="#soil" x="358" y="82"/>
     <use href="#soil" x="358" y="98"/>
-    <use href="#soil" x="358" y="114"/>
-    <use href="#soil" x="358" y="130"/>
-    <use href="#soil" x="358" y="146"/>
-    <use href="#sprout-2" x="374" y="50"/>
-    <use href="#soil" x="374" y="66"/>
-    <use href="#sprout-1" x="374" y="82"/>
+    <use href="#sprout-2" x="358" y="114"/>
+    <use href="#sprout-2" x="358" y="130"/>
+    <use href="#sprout-1" x="358" y="146"/>
+    <use href="#soil" x="374" y="50"/>
+    <use href="#sprout-2" x="374" y="66"/>
+    <use href="#flower-small" x="374" y="82"/>
     <use href="#sprout-1" x="374" y="98"/>
-    <use href="#soil" x="374" y="114"/>
-    <use href="#flower-full" x="374" y="130"/>
+    <use href="#sprout-1" x="374" y="114"/>
+    <use href="#soil" x="374" y="130"/>
     <use href="#soil" x="374" y="146"/>
-    <use href="#sprout-2" x="390" y="50"/>
+    <use href="#soil" x="390" y="50"/>
     <use href="#sprout-1" x="390" y="66"/>
-    <use href="#flower-rare" x="390" y="82"/>
-    <use href="#flower-small" x="390" y="98"/>
-    <use href="#flower-full" x="390" y="114"/>
-    <use href="#flower-full" x="390" y="130"/>
-    <use href="#flower-small" x="390" y="146"/>
-    <use href="#sprout-2" x="406" y="50"/>
-    <use href="#sprout-2" x="406" y="66"/>
-    <use href="#sprout-2" x="406" y="82"/>
+    <use href="#soil" x="390" y="82"/>
+    <use href="#soil" x="390" y="98"/>
+    <use href="#sprout-1" x="390" y="114"/>
+    <use href="#soil" x="390" y="130"/>
+    <use href="#sprout-1" x="390" y="146"/>
+    <use href="#sprout-1" x="406" y="50"/>
+    <use href="#soil" x="406" y="66"/>
+    <use href="#soil" x="406" y="82"/>
     <use href="#sprout-1" x="406" y="98"/>
-    <use href="#soil" x="406" y="114"/>
-    <use href="#sprout-1" x="406" y="130"/>
-    <use href="#soil" x="406" y="146"/>
+    <use href="#sprout-1" x="406" y="114"/>
+    <use href="#soil" x="406" y="130"/>
+    <use href="#sprout-1" x="406" y="146"/>
     <use href="#soil" x="422" y="50"/>
     <use href="#soil" x="422" y="66"/>
-    <use href="#sprout-1" x="422" y="82"/>
-    <use href="#sprout-2" x="422" y="98"/>
+    <use href="#soil" x="422" y="82"/>
+    <use href="#sprout-1" x="422" y="98"/>
     <use href="#soil" x="422" y="114"/>
     <use href="#soil" x="422" y="130"/>
-    <use href="#flower-full" x="422" y="146"/>
+    <use href="#soil" x="422" y="146"/>
     <use href="#sprout-2" x="438" y="50"/>
-    <use href="#sprout-1" x="438" y="66"/>
-    <use href="#sprout-2" x="438" y="82"/>
-    <use href="#sprout-2" x="438" y="98"/>
+    <use href="#soil" x="438" y="66"/>
+    <use href="#soil" x="438" y="82"/>
+    <use href="#sprout-1" x="438" y="98"/>
     <use href="#sprout-2" x="438" y="114"/>
-    <use href="#flower-small" x="438" y="130"/>
-    <use href="#sprout-2" x="438" y="146"/>
-    <use href="#flower-rare" x="454" y="50"/>
-    <use href="#sprout-1" x="454" y="66"/>
+    <use href="#sprout-1" x="438" y="130"/>
+    <use href="#soil" x="438" y="146"/>
+    <use href="#soil" x="454" y="50"/>
+    <use href="#flower-small" x="454" y="66"/>
     <use href="#soil" x="454" y="82"/>
     <use href="#soil" x="454" y="98"/>
-    <use href="#sprout-1" x="454" y="114"/>
+    <use href="#soil" x="454" y="114"/>
     <use href="#soil" x="454" y="130"/>
-    <use href="#sprout-1" x="454" y="146"/>
-    <use href="#sprout-2" x="470" y="50"/>
-    <use href="#sprout-2" x="470" y="66"/>
-    <use href="#flower-rare" x="470" y="82"/>
-    <use href="#flower-small" x="470" y="98"/>
+    <use href="#soil" x="454" y="146"/>
+    <use href="#soil" x="470" y="50"/>
+    <use href="#soil" x="470" y="66"/>
+    <use href="#soil" x="470" y="82"/>
+    <use href="#soil" x="470" y="98"/>
     <use href="#soil" x="470" y="114"/>
     <use href="#soil" x="470" y="130"/>
-    <use href="#sprout-2" x="470" y="146"/>
-    <use href="#sprout-1" x="486" y="50"/>
+    <use href="#soil" x="470" y="146"/>
+    <use href="#soil" x="486" y="50"/>
     <use href="#soil" x="486" y="66"/>
     <use href="#soil" x="486" y="82"/>
     <use href="#soil" x="486" y="98"/>
-    <use href="#soil" x="486" y="114"/>
-    <use href="#soil" x="486" y="130"/>
-    <use href="#flower-full" x="486" y="146"/>
+    <use href="#sprout-2" x="486" y="114"/>
+    <use href="#sprout-2" x="486" y="130"/>
+    <use href="#sprout-1" x="486" y="146"/>
     <use href="#sprout-1" x="502" y="50"/>
     <use href="#soil" x="502" y="66"/>
     <use href="#soil" x="502" y="82"/>
     <use href="#sprout-1" x="502" y="98"/>
-    <use href="#soil" x="502" y="114"/>
-    <use href="#sprout-1" x="502" y="130"/>
-    <use href="#flower-full" x="502" y="146"/>
-    <use href="#sprout-1" x="518" y="50"/>
-    <use href="#flower-rare" x="518" y="66"/>
-    <use href="#soil" x="518" y="82"/>
-    <use href="#sprout-2" x="518" y="98"/>
+    <use href="#sprout-1" x="502" y="114"/>
+    <use href="#soil" x="502" y="130"/>
+    <use href="#soil" x="502" y="146"/>
+    <use href="#soil" x="518" y="50"/>
+    <use href="#soil" x="518" y="66"/>
+    <use href="#sprout-1" x="518" y="82"/>
+    <use href="#sprout-1" x="518" y="98"/>
     <use href="#sprout-1" x="518" y="114"/>
     <use href="#soil" x="518" y="130"/>
-    <use href="#flower-rare" x="518" y="146"/>
-    <use href="#sprout-1" x="534" y="50"/>
-    <use href="#sprout-1" x="534" y="66"/>
-    <use href="#soil" x="534" y="82"/>
-    <use href="#flower-small" x="534" y="98"/>
-    <use href="#flower-full" x="534" y="114"/>
+    <use href="#soil" x="518" y="146"/>
+    <use href="#soil" x="534" y="50"/>
+    <use href="#soil" x="534" y="66"/>
+    <use href="#sprout-1" x="534" y="82"/>
+    <use href="#soil" x="534" y="98"/>
+    <use href="#soil" x="534" y="114"/>
     <use href="#sprout-1" x="534" y="130"/>
-    <use href="#sprout-2" x="534" y="146"/>
+    <use href="#soil" x="534" y="146"/>
     <use href="#soil" x="550" y="50"/>
-    <use href="#sprout-2" x="550" y="66"/>
+    <use href="#soil" x="550" y="66"/>
     <use href="#soil" x="550" y="82"/>
-    <use href="#soil" x="550" y="98"/>
-    <use href="#sprout-2" x="550" y="114"/>
+    <use href="#sprout-1" x="550" y="98"/>
+    <use href="#soil" x="550" y="114"/>
     <use href="#soil" x="550" y="130"/>
-    <use href="#sprout-2" x="550" y="146"/>
-    <use href="#sprout-1" x="566" y="50"/>
+    <use href="#sprout-1" x="550" y="146"/>
+    <use href="#soil" x="566" y="50"/>
     <use href="#soil" x="566" y="66"/>
     <use href="#soil" x="566" y="82"/>
-    <use href="#sprout-1" x="566" y="98"/>
-    <use href="#soil" x="566" y="114"/>
-    <use href="#sprout-2" x="566" y="130"/>
-    <use href="#flower-full" x="566" y="146"/>
-    <use href="#sprout-1" x="582" y="50"/>
-    <use href="#sprout-1" x="582" y="66"/>
-    <use href="#sprout-2" x="582" y="82"/>
+    <use href="#soil" x="566" y="98"/>
+    <use href="#sprout-1" x="566" y="114"/>
+    <use href="#soil" x="566" y="130"/>
+    <use href="#soil" x="566" y="146"/>
+    <use href="#soil" x="582" y="50"/>
+    <use href="#soil" x="582" y="66"/>
+    <use href="#soil" x="582" y="82"/>
     <use href="#soil" x="582" y="98"/>
-    <use href="#sprout-2" x="582" y="114"/>
-    <use href="#flower-small" x="582" y="130"/>
-    <use href="#flower-rare" x="582" y="146"/>
+    <use href="#sprout-1" x="582" y="114"/>
+    <use href="#soil" x="582" y="130"/>
+    <use href="#soil" x="582" y="146"/>
     <use href="#sprout-1" x="598" y="50"/>
-    <use href="#flower-full" x="598" y="66"/>
+    <use href="#sprout-1" x="598" y="66"/>
     <use href="#soil" x="598" y="82"/>
     <use href="#soil" x="598" y="98"/>
-    <use href="#sprout-2" x="598" y="114"/>
-    <use href="#sprout-2" x="598" y="130"/>
-    <use href="#sprout-1" x="598" y="146"/>
-    <use href="#sprout-1" x="614" y="50"/>
-    <use href="#flower-full" x="614" y="66"/>
-    <use href="#sprout-2" x="614" y="82"/>
-    <use href="#flower-small" x="614" y="98"/>
-    <use href="#sprout-1" x="614" y="114"/>
+    <use href="#soil" x="598" y="114"/>
+    <use href="#soil" x="598" y="130"/>
+    <use href="#flower-rare" x="598" y="146"/>
+    <use href="#sprout-2" x="614" y="50"/>
+    <use href="#sprout-1" x="614" y="66"/>
+    <use href="#soil" x="614" y="82"/>
+    <use href="#sprout-1" x="614" y="98"/>
+    <use href="#soil" x="614" y="114"/>
     <use href="#soil" x="614" y="130"/>
-    <use href="#flower-full" x="614" y="146"/>
-    <use href="#flower-rare" x="630" y="50"/>
+    <use href="#soil" x="614" y="146"/>
+    <use href="#soil" x="630" y="50"/>
     <use href="#soil" x="630" y="66"/>
     <use href="#soil" x="630" y="82"/>
     <use href="#soil" x="630" y="98"/>
-    <use href="#sprout-2" x="630" y="114"/>
-    <use href="#sprout-2" x="630" y="130"/>
-    <use href="#flower-full" x="630" y="146"/>
+    <use href="#soil" x="630" y="114"/>
+    <use href="#sprout-1" x="630" y="130"/>
+    <use href="#flower-small" x="630" y="146"/>
     <use href="#soil" x="646" y="50"/>
-    <use href="#flower-small" x="646" y="66"/>
+    <use href="#soil" x="646" y="66"/>
     <use href="#soil" x="646" y="82"/>
     <use href="#soil" x="646" y="98"/>
-    <use href="#flower-full" x="646" y="114"/>
-    <use href="#flower-small" x="646" y="130"/>
+    <use href="#soil" x="646" y="114"/>
+    <use href="#soil" x="646" y="130"/>
     <use href="#soil" x="646" y="146"/>
-    <use href="#sprout-1" x="662" y="50"/>
-    <use href="#sprout-1" x="662" y="66"/>
-    <use href="#flower-small" x="662" y="82"/>
+    <use href="#soil" x="662" y="50"/>
+    <use href="#soil" x="662" y="66"/>
+    <use href="#sprout-1" x="662" y="82"/>
     <use href="#soil" x="662" y="98"/>
-    <use href="#sprout-1" x="662" y="114"/>
+    <use href="#soil" x="662" y="114"/>
     <use href="#sprout-1" x="662" y="130"/>
     <use href="#soil" x="662" y="146"/>
-    <use href="#sprout-1" x="678" y="50"/>
+    <use href="#soil" x="678" y="50"/>
     <use href="#soil" x="678" y="66"/>
-    <use href="#flower-small" x="678" y="82"/>
-    <use href="#flower-small" x="678" y="98"/>
-    <use href="#soil" x="678" y="114"/>
-    <use href="#flower-small" x="678" y="130"/>
-    <use href="#flower-full" x="678" y="146"/>
-    <use href="#flower-small" x="694" y="50"/>
-    <use href="#flower-small" x="694" y="66"/>
-    <use href="#flower-full" x="694" y="82"/>
-    <use href="#sprout-1" x="694" y="98"/>
-    <use href="#flower-small" x="694" y="114"/>
-    <use href="#sprout-1" x="694" y="130"/>
+    <use href="#soil" x="678" y="82"/>
+    <use href="#sprout-1" x="678" y="98"/>
+    <use href="#sprout-1" x="678" y="114"/>
+    <use href="#sprout-1" x="678" y="130"/>
+    <use href="#soil" x="678" y="146"/>
+    <use href="#soil" x="694" y="50"/>
+    <use href="#soil" x="694" y="66"/>
+    <use href="#soil" x="694" y="82"/>
+    <use href="#soil" x="694" y="98"/>
+    <use href="#soil" x="694" y="114"/>
+    <use href="#soil" x="694" y="130"/>
     <use href="#soil" x="694" y="146"/>
-    <use href="#sprout-1" x="710" y="50"/>
-    <use href="#sprout-1" x="710" y="66"/>
+    <use href="#soil" x="710" y="50"/>
+    <use href="#soil" x="710" y="66"/>
     <use href="#soil" x="710" y="82"/>
     <use href="#soil" x="710" y="98"/>
-    <use href="#sprout-2" x="710" y="114"/>
-    <use href="#flower-full" x="710" y="130"/>
+    <use href="#soil" x="710" y="114"/>
+    <use href="#soil" x="710" y="130"/>
     <use href="#soil" x="710" y="146"/>
-    <use href="#sprout-1" x="726" y="50"/>
-    <use href="#flower-small" x="726" y="66"/>
+    <use href="#soil" x="726" y="50"/>
+    <use href="#soil" x="726" y="66"/>
     <use href="#soil" x="726" y="82"/>
     <use href="#soil" x="726" y="98"/>
-    <use href="#flower-small" x="726" y="114"/>
-    <use href="#sprout-1" x="726" y="130"/>
-    <use href="#sprout-2" x="726" y="146"/>
-    <use href="#sprout-2" x="742" y="50"/>
+    <use href="#soil" x="726" y="114"/>
+    <use href="#soil" x="726" y="130"/>
+    <use href="#soil" x="726" y="146"/>
+    <use href="#soil" x="742" y="50"/>
     <use href="#soil" x="742" y="66"/>
     <use href="#soil" x="742" y="82"/>
-    <use href="#sprout-2" x="742" y="98"/>
+    <use href="#soil" x="742" y="98"/>
     <use href="#soil" x="742" y="114"/>
     <use href="#soil" x="742" y="130"/>
-    <use href="#sprout-1" x="742" y="146"/>
+    <use href="#soil" x="742" y="146"/>
     <use href="#soil" x="758" y="50"/>
-    <use href="#sprout-2" x="758" y="66"/>
-    <use href="#sprout-2" x="758" y="82"/>
-    <use href="#sprout-1" x="758" y="98"/>
-    <use href="#sprout-1" x="758" y="114"/>
+    <use href="#soil" x="758" y="66"/>
+    <use href="#soil" x="758" y="82"/>
+    <use href="#soil" x="758" y="98"/>
+    <use href="#soil" x="758" y="114"/>
     <use href="#soil" x="758" y="130"/>
     <use href="#soil" x="758" y="146"/>
     <use href="#sprout-1" x="774" y="50"/>
-    <use href="#flower-full" x="774" y="66"/>
-    <use href="#sprout-1" x="774" y="82"/>
-    <use href="#sprout-2" x="774" y="98"/>
-    <use href="#sprout-2" x="774" y="114"/>
+    <use href="#soil" x="774" y="66"/>
+    <use href="#soil" x="774" y="82"/>
+    <use href="#soil" x="774" y="98"/>
+    <use href="#soil" x="774" y="114"/>
     <use href="#soil" x="774" y="130"/>
-    <use href="#sprout-2" x="774" y="146"/>
+    <use href="#sprout-1" x="774" y="146"/>
     <use href="#soil" x="790" y="50"/>
-    <use href="#flower-small" x="790" y="66"/>
-    <use href="#flower-full" x="790" y="82"/>
-    <use href="#soil" x="790" y="98"/>
-    <use href="#sprout-2" x="790" y="114"/>
-    <use href="#sprout-1" x="790" y="130"/>
-    <use href="#sprout-1" x="790" y="146"/>
-    <use href="#sprout-2" x="806" y="50"/>
+    <use href="#soil" x="790" y="66"/>
+    <use href="#soil" x="790" y="82"/>
+    <use href="#sprout-1" x="790" y="98"/>
+    <use href="#soil" x="790" y="114"/>
+    <use href="#soil" x="790" y="130"/>
+    <use href="#soil" x="790" y="146"/>
+    <use href="#soil" x="806" y="50"/>
     <use href="#sprout-1" x="806" y="66"/>
-    <use href="#flower-rare" x="806" y="82"/>
-    <use href="#sprout-2" x="806" y="98"/>
+    <use href="#soil" x="806" y="82"/>
+    <use href="#soil" x="806" y="98"/>
     <use href="#soil" x="806" y="114"/>
-    <use href="#soil" x="806" y="130"/>
-    <use href="#flower-rare" x="806" y="146"/>
-    <use href="#flower-full" x="822" y="50"/>
-    <use href="#flower-small" x="822" y="66"/>
-    <use href="#flower-small" x="822" y="82"/>
+    <use href="#sprout-1" x="806" y="130"/>
+    <use href="#soil" x="806" y="146"/>
+    <use href="#soil" x="822" y="50"/>
+    <use href="#sprout-1" x="822" y="66"/>
+    <use href="#soil" x="822" y="82"/>
     <use href="#soil" x="822" y="98"/>
-    <use href="#sprout-1" x="822" y="114"/>
+    <use href="#soil" x="822" y="114"/>
     <use href="#soil" x="822" y="130"/>
-    <use href="#flower-full" x="822" y="146"/>
-    <use href="#sprout-2" x="838" y="50"/>
-    <use href="#sprout-2" x="838" y="66"/>
-    <use href="#sprout-1" x="838" y="82"/>
-    <use href="#sprout-2" x="838" y="98"/>
-    <use href="#sprout-2" x="838" y="114"/>
-    <use href="#sprout-2" x="838" y="130"/>
-    <use href="#sprout-2" x="838" y="146"/>
-    <use href="#flower-small" x="854" y="50"/>
-    <use href="#sprout-2" x="854" y="66"/>
-    <use href="#flower-rare" x="854" y="82"/>
-    <use href="#sprout-1" x="854" y="98"/>
-    <use href="#sprout-1" x="854" y="114"/>
-    <use href="#sprout-2" x="854" y="130"/>
-    <use href="#flower-small" x="854" y="146"/>
-    <use href="#sprout-1" x="870" y="50"/>
+    <use href="#soil" x="822" y="146"/>
+    <use href="#soil" x="838" y="50"/>
+    <use href="#soil" x="838" y="66"/>
+    <use href="#soil" x="838" y="82"/>
+    <use href="#soil" x="838" y="98"/>
+    <use href="#soil" x="838" y="114"/>
+    <use href="#soil" x="838" y="130"/>
+    <use href="#sprout-1" x="838" y="146"/>
+    <use href="#sprout-1" x="854" y="50"/>
+    <use href="#soil" x="854" y="66"/>
   </g>
+  <rect x="853" y="65" width="14" height="14" fill="none" stroke="#F8FAFC" stroke-width="1" opacity="0.75" shape-rendering="crispEdges"/>
+  <rect x="865" y="63" width="1" height="1" fill="#F8FAFC"/>
   <use href="#watering-can" x="16" y="174"/>
-  <text x="448" y="187" text-anchor="middle" fill="#64748B" font-family="'Courier New', ui-monospace, monospace" font-size="9" letter-spacing="2">contribution garden</text>
+  <text x="440" y="187" text-anchor="middle" fill="#64748B" font-family="'Courier New', ui-monospace, monospace" font-size="9" letter-spacing="2">contribution garden</text>
 </svg>
