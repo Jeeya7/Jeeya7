@@ -24,7 +24,11 @@
       <a href="https://jeeya7.github.io/JiyaPradhan/"><code>users/jeeya7</code></a>
       <br />
       <br />
-      <br />
+      <img
+        src="./assets/profile-terminal.gif"
+        width="320"
+        alt="Jeeya7 terminal profile showing school, Computer Science, interests, and current status"
+      />
       <br />
     </td>
     <td width="50%" align="center" valign="top">

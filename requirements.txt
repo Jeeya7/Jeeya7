@@ -1,0 +1,5 @@
+# Local tooling for regenerating the profile's generated assets.
+# (The contribution-garden GitHub Action installs its own subset inline.)
+
+Pillow>=10        # scripts/generate_profile_terminal.py   -> assets/profile-terminal.gif
+requests>=2.28    # scripts/generate_contribution_garden.py -> assets/contribution-garden.svg
