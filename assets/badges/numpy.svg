@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="99" height="34" viewBox="0 0 99 34" role="img" aria-label="NUMPY">
+  <rect x="0.5" y="0.5" width="98" height="33" rx="8" fill="#1B2433" stroke="#2A3B58"/>
+  <rect x="11" y="11" width="12" height="12" fill="#4DABCF" shape-rendering="crispEdges"/>
+  <text x="31" y="23" fill="#F8FAFC" font-family="'Courier New', ui-monospace, monospace" font-size="17" font-weight="700" letter-spacing="1">NUMPY</text>
+</svg>

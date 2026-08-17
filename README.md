@@ -32,23 +32,34 @@
       <img src="./assets/heading-inventory.svg" width="185" alt="inventory" />
       <br />
       <br />
-      <sub><samp><b>languages</b></samp></sub>
+      <samp><b>LANGUAGES</b></samp>
       <br />
-      <img src="https://skillicons.dev/icons?i=python,cs,js,cpp,java&theme=dark&perline=5" alt="Python, C#, JavaScript, C++, Java" />
-      <br />
-      <hr />
-      <sub><samp><b>build tools</b></samp></sub>
-      <br />
-      <img src="https://skillicons.dev/icons?i=dotnet,flask,react,vue,nextjs,html,css&theme=dark&perline=7" alt="ASP.NET Core, Flask, React, Vue, Next.js, HTML, CSS" />
-      <br />
-      <hr />
-      <sub><samp><b>data + systems</b></samp></sub>
-      <br />
-      <img src="https://skillicons.dev/icons?i=postgres,docker,pytorch,tensorflow,cypress,github,vscode&theme=dark&perline=7" alt="PostgreSQL, Docker, PyTorch, TensorFlow, Cypress, GitHub, VS Code" />
+      <img src="https://skillicons.dev/icons?i=python,cs,js,cpp,java&theme=dark" alt="Python, C#, JavaScript, C++, Java" />
       <br />
       <br />
-      <sub><samp>SQL | REST APIs | Dapr | Playwright | Serilog | Zipkin | Pandas | NumPy</samp></sub>
+      <samp><b>FRAMEWORKS&nbsp;+&nbsp;WEB</b></samp>
       <br />
+      <img src="https://skillicons.dev/icons?i=dotnet,flask,react,vue,nextjs,html,css&theme=dark" alt="ASP.NET Core, Flask, React, Vue, Next.js, HTML, CSS" />
+      <br />
+      <br />
+      <samp><b>ML&nbsp;+&nbsp;DATA</b></samp>
+      <br />
+      <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,postgres&theme=dark" alt="PyTorch, TensorFlow, PostgreSQL" />
+      <br />
+      <img src="./assets/badges/pandas.svg" alt="Pandas" />
+      <img src="./assets/badges/numpy.svg" alt="NumPy" />
+      <br />
+      <br />
+      <samp><b>SYSTEMS&nbsp;+&nbsp;TOOLING</b></samp>
+      <br />
+      <img src="https://skillicons.dev/icons?i=docker,github,vscode,cypress&theme=dark" alt="Docker, GitHub, VS Code, Cypress" />
+      <br />
+      <img src="./assets/badges/playwright.svg" alt="Playwright" />
+      <img src="./assets/badges/sql.svg" alt="SQL" />
+      <img src="./assets/badges/rest.svg" alt="REST APIs" />
+      <img src="./assets/badges/dapr.svg" alt="Dapr" />
+      <img src="./assets/badges/serilog.svg" alt="Serilog" />
+      <img src="./assets/badges/zipkin.svg" alt="Zipkin" />
       <br />
     </td>
   </tr>
