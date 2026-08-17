@@ -61,11 +61,18 @@
 
 <img src="./assets/heading-activity.svg" width="170" alt="activity" />
 
-<a href="https://github4life.herokuapp.com/Jeeya7">
-  <img src="https://github4life.herokuapp.com/Jeeya7.gif" alt="Jeeya7's GitHub contributions rendered as a Game of Life animation" width="640" />
-</a>
+<br />
+
+<img
+  src="./assets/contribution-garden.svg"
+  width="760"
+  alt="Jeeya7's GitHub contributions represented as a pixel garden"
+/>
 
 <br />
+
+<sub><samp>contribution garden // powered by real GitHub activity</samp></sub>
+
 </div>
 
 ---

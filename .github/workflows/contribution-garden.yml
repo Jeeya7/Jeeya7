@@ -1,0 +1,48 @@
+name: contribution garden
+
+# Regenerate the pixel-art contribution garden once a day, and on demand.
+on:
+  schedule:
+    - cron: "17 3 * * *"   # daily at 03:17 UTC
+  workflow_dispatch: {}      # allow manual runs from the Actions tab
+
+# Least-privilege: only needs to push the regenerated SVG back to the repo.
+permissions:
+  contents: write
+
+concurrency:
+  group: contribution-garden
+  cancel-in-progress: false
+
+jobs:
+  garden:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install requests python-dateutil
+
+      - name: Generate contribution garden
+        env:
+          # The default token can read any user's public contributions.
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/generate_contribution_garden.py
+
+      - name: Commit if the garden changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet -- assets/contribution-garden.svg; then
+            echo "No changes to the contribution garden."
+          else
+            git add assets/contribution-garden.svg
+            git commit -m "chore: update contribution garden"
+            git push
+          fi
