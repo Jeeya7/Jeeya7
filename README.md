@@ -18,15 +18,14 @@
       <img src="./assets/heading-user-file.svg" width="170" alt="user file" />
       <br />
       <a href="https://jeeya7.github.io/JiyaPradhan/">
-        <img src="./assets/user-file.png" width="185" alt="users/jeeya7 pixel user file icon" />
+        <img src="./assets/user-file.png" width="135" alt="users/jeeya7 pixel user file icon" />
       </a>
       <br />
       <a href="https://jeeya7.github.io/JiyaPradhan/"><code>users/jeeya7</code></a>
       <br />
-      <br />
       <img
         src="./assets/profile-terminal.gif"
-        width="320"
+        width="335"
         alt="Jeeya7 terminal profile showing school, Computer Science, interests, and current status"
       />
       <br />
