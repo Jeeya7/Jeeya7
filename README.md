@@ -98,16 +98,17 @@
     <td align="left" valign="middle" width="42%">
       <samp><b>CONNECT</b></samp>
       &nbsp;&nbsp;
-      <img src="https://skillicons.dev/icons?i=html&theme=dark" height="18" align="absmiddle" alt="portfolio" />
+      <img src="./assets/footer-icon-portfolio.svg" height="20" align="absmiddle" alt="portfolio icon" />
       <a href="https://jeeya7.github.io/JiyaPradhan/"><samp>portfolio</samp></a>
       &nbsp;&nbsp;
-      <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="18" align="absmiddle" alt="LinkedIn" />
+      <img src="./assets/footer-icon-linkedin.svg" height="20" align="absmiddle" alt="linkedin icon" />
       <a href="https://www.linkedin.com/in/jiyapradhan"><samp>linkedin</samp></a>
       &nbsp;&nbsp;
-      <img src="https://img.shields.io/badge/M-ff69b4?style=flat-square&labelColor=111827&color=111827" height="18" align="absmiddle" alt="email" />
+      <img src="./assets/footer-icon-email.svg" height="20" align="absmiddle" alt="email icon" />
       <a href="mailto:pradhanj@oregonstate.edu"><samp>email</samp></a>
     </td>
     <td align="center" valign="middle" width="30%">
+      <img src="./assets/footer-icon-heart.svg" height="18" align="absmiddle" alt="pixel heart icon" />
       <samp><b>THANKS FOR VISITING!</b></samp>
     </td>
     <td align="right" valign="middle" width="28%">
