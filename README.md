@@ -1,78 +1,98 @@
 <div align="center">
 
-<pre>
-     _ _____   __   __    _    
-    | |_ _\ \ / /  / \   
- _  | || | \ V /  / _ \  
-| |_| || |  | |  / ___ \ 
- \___/|___| |_| /_/   \_\
-</pre>
+<img src="./assets/github-base-banner.png" width="92%" alt="Welcome to my GitHub base pixel farm banner" />
 
-# Jeeya7
+<img src="./assets/heading-jeeya7.svg" width="260" alt="JEEYA7" />
 
-**Applied AI | Explainable ML | Human-centered tools**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![AI Agents](https://img.shields.io/badge/AI%20Agents-2E8B57?style=for-the-badge)
+<samp><b>Applied AI | Explainable ML | Human-centered tools</b></samp>  
+<sub><samp>CS student building practical AI tools for education, safety, and explainable decision support.</samp></sub>
 
 </div>
 
-```txt
-> student developer
-> building practical AI tools
-> curious, consistent, and kind
+---
 
-location:  Earth
-focus:     applied AI, explainable ML, useful automation
-code:      everyday
-```
+<table>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <br />
+      <img src="./assets/heading-user-file.svg" width="170" alt="user file" />
+      <br />
+      <a href="https://jeeya7.github.io/JiyaPradhan/">
+        <img src="./assets/user-file.png" width="185" alt="users/jeeya7 pixel user file icon" />
+      </a>
+      <br />
+      <a href="https://jeeya7.github.io/JiyaPradhan/"><code>users/jeeya7</code></a>
+      <br />
+      <br />
+      <sub><samp>Applied AI builder focused on explainability, education tools, and useful automation.</samp></sub>
+      <br />
+      <br />
+    </td>
+    <td width="50%" align="center" valign="top">
+      <br />
+      <img src="./assets/heading-inventory.svg" width="185" alt="inventory" />
+      <br />
+      <br />
+      <sub><samp><b>languages</b></samp></sub>
+      <br />
+      <img src="https://skillicons.dev/icons?i=python,cs,js,cpp,java&theme=dark&perline=5" alt="Python, C#, JavaScript, C++, Java" />
+      <br />
+      <hr />
+      <sub><samp><b>build tools</b></samp></sub>
+      <br />
+      <img src="https://skillicons.dev/icons?i=dotnet,flask,react,vue,nextjs,html,css&theme=dark&perline=7" alt="ASP.NET Core, Flask, React, Vue, Next.js, HTML, CSS" />
+      <br />
+      <hr />
+      <sub><samp><b>data + systems</b></samp></sub>
+      <br />
+      <img src="https://skillicons.dev/icons?i=postgres,docker,pytorch,tensorflow,cypress,github,vscode&theme=dark&perline=7" alt="PostgreSQL, Docker, PyTorch, TensorFlow, Cypress, GitHub, VS Code" />
+      <br />
+      <br />
+      <sub><samp>SQL | REST APIs | Dapr | Playwright | Serilog | Zipkin | Pandas | NumPy</samp></sub>
+      <br />
+      <br />
+    </td>
+  </tr>
+</table>
 
-I build AI-powered tools that turn messy real-world information into clear, useful decisions. My recent work spans multi-agent systems, model explanation dashboards, environmental risk analysis, and student productivity tools.
+---
 
-## GitHub Activity
+<div align="center">
 
-![Jiya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeeya7&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent)
+<img src="./assets/heading-activity.svg" width="170" alt="activity" />
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeeya7&layout=compact&hide_border=true&theme=transparent)
+<a href="https://github4life.herokuapp.com/Jeeya7">
+  <img src="https://github4life.herokuapp.com/Jeeya7.gif" alt="Jeeya7's GitHub contributions rendered as a Game of Life animation" width="640" />
+</a>
 
-## Featured Projects
+<br />
+</div>
 
-### FloodAid
-AI flood safety assistant that analyzes real-time environmental data to assess dynamic flood risk and communicate calm, actionable guidance.
+---
 
-**Focus:** AI agents, environmental data, risk analysis, user-centered response design  
-**Tech:** Python, LLM workflows, data processing
+<div align="center">
 
-### Model Explanation Dashboard
-Interactive dashboard for making model behavior easier to inspect, compare, and explain.
+<table>
+  <tr>
+    <td align="left" valign="middle" width="42%">
+      <samp><b>CONNECT</b></samp>
+      &nbsp;&nbsp;
+      <img src="https://skillicons.dev/icons?i=html&theme=dark" height="18" align="absmiddle" alt="portfolio" />
+      <a href="https://jeeya7.github.io/JiyaPradhan/"><samp>portfolio</samp></a>
+      &nbsp;&nbsp;
+      <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="18" align="absmiddle" alt="LinkedIn" />
+      <a href="https://www.linkedin.com/in/jiyapradhan"><samp>linkedin</samp></a>
+      &nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/M-ff69b4?style=flat-square&labelColor=111827&color=111827" height="18" align="absmiddle" alt="email" />
+      <a href="mailto:pradhanj@oregonstate.edu"><samp>email</samp></a>
+    </td>
+    <td align="center" valign="middle" width="30%">
+      <samp><b>THANKS FOR VISITING!</b></samp>
+    </td>
+    <td align="right" valign="middle" width="28%">
+      <img src="https://komarev.com/ghpvc/?username=Jeeya7&style=for-the-badge&color=ff69b4&label=Profile+views" align="absmiddle" alt="Profile views counter" />
+    </td>
+  </tr>
+</table>
 
-**Focus:** explainable AI, model evaluation, dashboards, data visualization  
-**Tech:** Python, analytics, visualization
-
-### Canvas Deadline Agent
-Learning-management assistant that extracts, tracks, and prioritizes academic deadlines from LMS data and calendar feeds.
-
-**Focus:** automation, agent workflows, scheduling, student tools  
-**Tech:** JavaScript, LMS integrations, calendar logic
-
-## What I'm Interested In
-
-- Applied AI systems that are useful beyond demos
-- Human-centered tooling for education, safety, and decision support
-- Explainable machine learning and trustworthy model behavior
-- Full-stack products that combine clean interfaces with practical automation
-
-## Tech I Use
-
-Python, JavaScript, TypeScript, React, data visualization, API integrations, automation workflows, and AI-assisted application development.
-
-## Currently
-
-I'm studying computer science and building projects at the intersection of AI, product design, and real-world problem solving.
-
-## Connect
-
-- Portfolio: [JiyaPradhan](https://github.com/Jeeya7/JiyaPradhan)
-- GitHub: [@Jeeya7](https://github.com/Jeeya7)
+</div>
