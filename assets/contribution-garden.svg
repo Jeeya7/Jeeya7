@@ -476,9 +476,10 @@
     <use href="#sprout-1" x="838" y="146"/>
     <use href="#sprout-2" x="854" y="50"/>
     <use href="#soil" x="854" y="66"/>
+    <use href="#soil" x="854" y="82"/>
   </g>
-  <rect x="853" y="65" width="14" height="14" fill="none" stroke="#F8FAFC" stroke-width="1" opacity="0.75" shape-rendering="crispEdges"/>
-  <rect x="865" y="63" width="1" height="1" fill="#F8FAFC"/>
+  <rect x="853" y="81" width="14" height="14" fill="none" stroke="#F8FAFC" stroke-width="1" opacity="0.75" shape-rendering="crispEdges"/>
+  <rect x="865" y="79" width="1" height="1" fill="#F8FAFC"/>
   <use href="#watering-can" x="16" y="174"/>
   <text x="440" y="187" text-anchor="middle" fill="#64748B" font-family="'Courier New', ui-monospace, monospace" font-size="9" letter-spacing="2">contribution garden</text>
 </svg>
