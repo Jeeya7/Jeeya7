@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="880" height="196" viewBox="0 0 880 196" role="img" aria-label="Jeeya7 GitHub contribution garden">
   <title>Jeeya7 GitHub contribution garden</title>
-  <desc>A pixel-art garden representing Jeeya7's GitHub contribution activity over the last year (393 contributions), where each day is a plant that grows with that day's activity.</desc>
+  <desc>A pixel-art garden representing Jeeya7's GitHub contribution activity over the last year (395 contributions), where each day is a plant that grows with that day's activity.</desc>
   <defs>
     <g id="soil" shape-rendering="crispEdges">
       <rect x="0" y="8" width="12" height="4" fill="#33241A"/>
@@ -479,10 +479,11 @@
     <use href="#soil" x="854" y="82"/>
     <use href="#sprout-1" x="854" y="98"/>
     <use href="#soil" x="854" y="114"/>
-    <use href="#soil" x="854" y="130"/>
+    <use href="#sprout-1" x="854" y="130"/>
+    <use href="#soil" x="854" y="146"/>
   </g>
-  <rect x="853" y="129" width="14" height="14" fill="none" stroke="#F8FAFC" stroke-width="1" opacity="0.75" shape-rendering="crispEdges"/>
-  <rect x="865" y="127" width="1" height="1" fill="#F8FAFC"/>
+  <rect x="853" y="145" width="14" height="14" fill="none" stroke="#F8FAFC" stroke-width="1" opacity="0.75" shape-rendering="crispEdges"/>
+  <rect x="865" y="143" width="1" height="1" fill="#F8FAFC"/>
   <use href="#watering-can" x="16" y="174"/>
   <text x="440" y="187" text-anchor="middle" fill="#64748B" font-family="'Courier New', ui-monospace, monospace" font-size="9" letter-spacing="2">contribution garden</text>
 </svg>
